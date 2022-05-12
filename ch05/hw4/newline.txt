@@ -1,0 +1,6 @@
+Programming languages
+Lists of programming languages	Timeline of programming languages, List of programming languages by category, Generational list of programming languages, List of programming languages, Non-English-based programming languages
+Commonly used assembly languages	ARM, MIPS, x86
+Commonly used high-level programming languages	Ada, BASIC, C, C++, C#, COBOL, Fortran, PL/I, REXX, Java, Lisp, Pascal, Object Pascal
+Commonly used scripting languages	Bourne script, JavaScript, Python, Ruby, PHP, Perl
+Programs
